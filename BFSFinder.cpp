@@ -37,6 +37,8 @@
 #include <unordered_set>
 #include <algorithm>
 #include <iostream>
+#include <vector>
+#include <string>
 
 vector<string> BFSFinder::findPath(const TransportNetwork& network,
                                     const string& src,
